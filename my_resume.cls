@@ -4,7 +4,18 @@
 \RequirePackage{titlesec}
 \RequirePackage{fancyhdr}
 \RequirePackage{geometry}
+ 
+\geometry{margin=.75in,includehead,headsep=30pt}
 
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[L]{\textbf{\LARGE Stephen DuVall} \\ Loganville, GA 30052}
+\fancyhead[R]{(404)-710-5366 \\ stephen.duvall13@gmail.com}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancyfoot{}
+ 
+ 
 \titleformat{\section}
   {\Large\scshape\raggedright\bfseries}
   {}{0em}
