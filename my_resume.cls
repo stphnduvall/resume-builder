@@ -9,10 +9,11 @@
 
 \pagestyle{fancy}
 \fancyhead{}
-\fancyhead[L]{\textbf{\LARGE Stephen DuVall} \\ Loganville, GA 30052}
-\fancyhead[R]{(404)-710-5366 \\ stephen.duvall13@gmail.com}
 \renewcommand{\headrulewidth}{0pt}
-
+\newcommand{\splitheader}{
+	\fancyhead[L]{\textbf{\LARGE Stephen DuVall} \\ Loganville, GA 30052}
+	\fancyhead[R]{(404)-710-5366 \\ stephen.duvall13@gmail.com}
+}
 \fancyfoot{}
  
  
