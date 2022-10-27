@@ -4,6 +4,7 @@
 \RequirePackage{titlesec}
 \RequirePackage{fancyhdr}
 \RequirePackage{geometry}
+\RequirePackage{array}
  
 \geometry{margin=.75in,includehead,headsep=40pt}
 
@@ -50,3 +51,5 @@
 \newcommand{\eduhist}[2]{
   \subsection[#1]{\large\textbf{#1} \hfill #2}
 }
+
+\newcolumntype{L}{>{\bfseries}l}
