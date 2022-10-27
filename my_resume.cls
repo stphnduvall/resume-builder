@@ -5,7 +5,7 @@
 \RequirePackage{fancyhdr}
 \RequirePackage{geometry}
  
-\geometry{margin=.75in,includehead,headsep=30pt}
+\geometry{margin=.75in,includehead,headsep=40pt}
 
 \pagestyle{fancy}
 \fancyhead{}
