@@ -14,6 +14,14 @@
 	\fancyhead[L]{\textbf{\LARGE Stephen DuVall} \\ Loganville, GA 30052}
 	\fancyhead[R]{(404)-710-5366 \\ stephen.duvall13@gmail.com}
 }
+
+\newcommand{\centerheader} {
+	\fancyhead[C]{\Huge\textbf{Stephen DuVall}\\\normalsize
+	Loganville, GA 30052\hspace{2ex}
+	stephen.duvall13@gmail.com\hspace{2ex}
+	(404)-710-5366 }
+}
+
 \fancyfoot{}
  
  
