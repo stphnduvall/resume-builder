@@ -1,6 +1,6 @@
 \LoadClass{article}
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{my_resume}[2011/03/26 My custom CV class]
+\ProvidesClass{my_resume}[2022/11/02 My custom resume class]
 \RequirePackage{titlesec}
 \RequirePackage{fancyhdr}
 \RequirePackage{geometry}
